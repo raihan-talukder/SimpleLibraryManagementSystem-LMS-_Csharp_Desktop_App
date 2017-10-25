@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LMS.UILayer", "LMS.UILayer\LMS.UILayer.csproj", "{09244386-87EA-4C29-B960-F00106177D74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LMS.Entities", "LMS.Entities\LMS.Entities.csproj", "{63F5C606-30D0-4C38-904A-A11569CEB0D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LMS.DataLayer", "LMS.DataLayer\LMS.DataLayer.csproj", "{BCF9CC78-4F74-4937-A016-33FE40FD4009}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09244386-87EA-4C29-B960-F00106177D74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09244386-87EA-4C29-B960-F00106177D74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09244386-87EA-4C29-B960-F00106177D74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09244386-87EA-4C29-B960-F00106177D74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63F5C606-30D0-4C38-904A-A11569CEB0D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F5C606-30D0-4C38-904A-A11569CEB0D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63F5C606-30D0-4C38-904A-A11569CEB0D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63F5C606-30D0-4C38-904A-A11569CEB0D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCF9CC78-4F74-4937-A016-33FE40FD4009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF9CC78-4F74-4937-A016-33FE40FD4009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF9CC78-4F74-4937-A016-33FE40FD4009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF9CC78-4F74-4937-A016-33FE40FD4009}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

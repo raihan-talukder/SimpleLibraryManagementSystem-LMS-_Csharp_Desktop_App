@@ -1,0 +1,15 @@
+D:\C#\LibraryManagementSystem(LMS)\LMS.UILayer\bin\Debug\LMS.UILayer.exe.config
+D:\C#\LibraryManagementSystem(LMS)\LMS.UILayer\obj\Debug\LMS.UILayer.exe
+D:\C#\LibraryManagementSystem(LMS)\LMS.UILayer\obj\Debug\LMS.UILayer.pdb
+D:\C#\LibraryManagementSystem(LMS)\LMS.UILayer\bin\Debug\LMS.UILayer.exe
+D:\C#\LibraryManagementSystem(LMS)\LMS.UILayer\bin\Debug\LMS.UILayer.pdb
+D:\C#\LibraryManagementSystem(LMS)\LMS.UILayer\obj\Debug\LMS.UILayer.csprojResolveAssemblyReference.cache
+D:\C#\LibraryManagementSystem(LMS)\LMS.UILayer\obj\Debug\LMS.UILayer.AdminUI.AdminHomeForm.resources
+D:\C#\LibraryManagementSystem(LMS)\LMS.UILayer\obj\Debug\LMS.UILayer.AdminUI.HomeView.resources
+D:\C#\LibraryManagementSystem(LMS)\LMS.UILayer\obj\Debug\LMS.UILayer.AdminUI.MemberForm.resources
+D:\C#\LibraryManagementSystem(LMS)\LMS.UILayer\obj\Debug\LMS.UILayer.AdminUI.PermissionView.resources
+D:\C#\LibraryManagementSystem(LMS)\LMS.UILayer\obj\Debug\LMS.UILayer.Common_UI.RegisterForm.resources
+D:\C#\LibraryManagementSystem(LMS)\LMS.UILayer\obj\Debug\LMS.UILayer.Common_UI.LoginForm.resources
+D:\C#\LibraryManagementSystem(LMS)\LMS.UILayer\obj\Debug\LMS.UILayer.Member_UI.MemberHomeForm.resources
+D:\C#\LibraryManagementSystem(LMS)\LMS.UILayer\obj\Debug\LMS.UILayer.Properties.Resources.resources
+D:\C#\LibraryManagementSystem(LMS)\LMS.UILayer\obj\Debug\LMS.UILayer.csproj.GenerateResource.Cache
